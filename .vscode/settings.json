@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "C:\\Program Files\\Python311\\python.exe",
+  "editor.formatOnSave": true,
+  "python.terminal.activateEnvironment": false
+}
